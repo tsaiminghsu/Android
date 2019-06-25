@@ -13,7 +13,7 @@
 ### 安裝Android SDK 
 ### 設定模擬器 (非必要，如果你有Android手機可以直 接使用Android手機)
 ## 安裝Android SDK 
-### 啟動Android Studio,點選Tools Android SDK Manager  
+### 啟動Android Studio,點選Tools >> Android >> SDK Manager  
 ### 勾選越多, 下載的時間越久,也需要越大的儲存空間
 ## 設定Android模擬器 
 ### 模擬器跑起來很耗資源,速度也很慢, 如果可以, 建議還是直接用USB連接手機執行 
